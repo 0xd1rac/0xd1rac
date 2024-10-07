@@ -6,7 +6,7 @@ I am a
 - :trollface: LARPing Penetration Tester/Red Teamer
 - :trollface: LARPing Full Stack Developer
 
-Currently self-studying
+Self-studying:
 - Stanford CS224n: NLP
 - MIT 6.5940: TinyML
 - PSU Stat 415: Introduction to Mathematical Statistics 
