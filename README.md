@@ -1,9 +1,10 @@
 ## What's up 👋
 
-- :school_satchel: Final year Physics undergrad at Nanyang Technological Univeristy.
-- Penetration Tester/Red Teamer
-- Full Stack Developer
-- Machine Learning Engineer
+- :school_satchel: Final year Physics undergrad based out of Singapore.
+- :trollface: LARPing Machine Learning Engineer 
+- :trollface: LARPing Penetration Tester/Red Teamer
+- :trollface: LARPing Full Stack Developer
+
 
 Not as cracked as I would like to be yet...
 
